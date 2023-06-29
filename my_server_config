@@ -1,0 +1,4 @@
+
+config my_server_section 'my_server_section'
+	option enable '1'
+
